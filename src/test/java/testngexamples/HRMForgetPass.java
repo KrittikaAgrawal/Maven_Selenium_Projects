@@ -20,5 +20,6 @@ public class HRMForgetPass {
 		String url = driver.getCurrentUrl(); 
 		Assert.assertEquals(url, "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		System.out.println("After assertion");
+		driver.close();
   }
 }

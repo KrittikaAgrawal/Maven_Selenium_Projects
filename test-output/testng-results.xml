@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-26T14:19:50Z" name="Default suite" finished-at="2022-09-26T14:19:51Z" duration-ms="958">
+  <suite started-at="2022-09-28T09:07:48Z" name="Default suite" finished-at="2022-09-28T09:07:51Z" duration-ms="3063">
     <groups>
     </groups>
-    <test started-at="2022-09-26T14:19:50Z" name="Default test" finished-at="2022-09-26T14:19:51Z" duration-ms="958">
-      <class name="testngexamples.Webtable">
-        <test-method signature="f()[pri:0, instance:testngexamples.Webtable@4e423aa2]" started-at="2022-09-26T14:19:50Z" name="f" finished-at="2022-09-26T14:19:51Z" duration-ms="943" status="PASS">
+    <test started-at="2022-09-28T09:07:48Z" name="Default test" finished-at="2022-09-28T09:07:51Z" duration-ms="3063">
+      <class name="testngexamples.FacebooksignUp">
+        <test-method signature="facebook()[pri:0, instance:testngexamples.FacebooksignUp@4e423aa2]" started-at="2022-09-28T09:07:48Z" name="facebook" finished-at="2022-09-28T09:07:51Z" duration-ms="3049" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- testngexamples.Webtable -->
+        </test-method> <!-- facebook -->
+      </class> <!-- testngexamples.FacebooksignUp -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
